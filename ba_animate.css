@@ -13,7 +13,11 @@
 
 
 /* Transition Styles */
-
+nav a {
+    background-image: url(ba_target.png) center horizontal vertical no-repeat;
+    background-size: 0%;
+    color: rgb(253, 240, 133);
+}
 
 
 /* Animation Styles */
